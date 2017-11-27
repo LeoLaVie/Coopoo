@@ -4,7 +4,7 @@ import Interface.InterfaceMain;
 
 /**
  *
- * @author Paul
+ * @author grp10 yguyg
  */
 public class WorldOfZuul {
       
